@@ -2,6 +2,19 @@
 
 [![tfsec](https://github.com/nataliagranato/terraform-mgc-k8s-module/actions/workflows/tfscan.yml/badge.svg)](https://github.com/nataliagranato/terraform-mgc-k8s-module/actions/workflows/tfscan.yml) [![Dependabot Updates](https://github.com/nataliagranato/terraform-mgc-k8s-module/actions/workflows/dependabot/dependabot-updates/badge.svg)](https://github.com/nataliagranato/terraform-mgc-k8s-module/actions/workflows/dependabot/dependabot-updates) [![Generate terraform docs](https://github.com/nataliagranato/terraform-mgc-k8s-module/actions/workflows/documentation.yml/badge.svg)](https://github.com/nataliagranato/terraform-mgc-k8s-module/actions/workflows/documentation.yml) [![.github/workflows/terrascan.yml](https://github.com/nataliagranato/terraform-mgc-k8s-module/actions/workflows/terrascan.yml/badge.svg)](https://github.com/nataliagranato/terraform-mgc-k8s-module/actions/workflows/terrascan.yml)
 
+```mermaid
+sequenceDiagram
+    participant User
+    participant Terraform
+    participant Provider
+
+    User->>Terraform: Initiate configuration
+    Terraform->>Provider: Request version 0.23.0
+    Provider-->>Terraform: Provide updated features
+    Terraform-->>User: Configuration successful
+```
+
+
 <!-- BEGIN_TF_DOCS -->
 ## Requirements
 
