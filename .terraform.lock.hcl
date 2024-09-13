@@ -41,17 +41,17 @@ provider "registry.terraform.io/hashicorp/time" {
 }
 
 provider "registry.terraform.io/magalucloud/mgc" {
-  version = "0.24.5"
+  version = "0.26.2"
   hashes = [
-    "h1:6mz1lxX3GNe2DCM7Xzbn55cvyN0pQmcag+OxkFWBlQ0=",
-    "zh:2862f6db0a340508ffcc79d04f92ac6918f27e830588838bc7f196a95adef8a1",
-    "zh:45a74e00a8265b18c9e678ea7755dc633ad2c0f49a18484aa15acd3f7cf632c9",
-    "zh:8238fcad33d53fa764a0c4e2fca5f82be4dc060e05879006efcf1f2d9d15b2ac",
-    "zh:844d70b80457ce8baaa961fd55c4b518da2cebd0245f26a4ed8d551a12047145",
+    "h1:HWxyPly3ZsNpGh7JrHEUOmKvCIKq4m3gtTIZt3VEEXg=",
+    "zh:176fb9daa1da6cbe5c305ade184f508b1e3f20df4eace1d89f951f26320a4f4a",
+    "zh:5a098a6b4764e30f969af126b7ec0c9973d89288f6bf57f5f26163c44f45a0e8",
+    "zh:5aaef312c1cd3c09d4391703f62e779a132b7e3358f9fca1fc98739bf2ca248a",
+    "zh:5db86453dd33237e3e4531d45bdeedb3c10c86f2e1910d44a136c600318bb167",
     "zh:890df766e9b839623b1f0437355032a3c006226a6c200cd911e15ee1a9014e9f",
-    "zh:95af4de4d7172069241a7b0931ca44a50b99d27b17eedaaf927639085225e272",
-    "zh:bfaf8b8647374460225e87288e0db2ba86b2e9d87cf9d8440cee1c01ff95f340",
-    "zh:ddfe3f4b271342225404bd75b995d00f15bebcf23502c0812abd783ad73ef1dc",
-    "zh:eb156d0bcb202307592fc2843b9d0a5f774a7e5815ec067e94761f5e00dd1c81",
+    "zh:b44240c84ec20bc7a1d414838064dd025d5298e447ebdcb8aa7e5d11675e0fe3",
+    "zh:c19b277eb037ac5d933c3d25142e9a4eab177aeeeef095a37a480232e12af880",
+    "zh:ca660a8c17c14a1aa6a8e069b9d77106a029fff7e47d3a5216ef90516b4c83b8",
+    "zh:ee295cd7763655e17e9f56faf0310d862c73c493ef3a34921731787a3c0ea396",
   ]
 }
