@@ -27,7 +27,7 @@ sequenceDiagram
 | Name | Version |
 |------|---------|
 | <a name="provider_local"></a> [local](#provider\_local) | 2.5.1 |
-| <a name="provider_mgc"></a> [mgc](#provider\_mgc) | 0.24.5 |
+| <a name="provider_mgc"></a> [mgc](#provider\_mgc) | 0.26.2 |
 | <a name="provider_time"></a> [time](#provider\_time) | 0.12.0 |
 
 ## Modules
