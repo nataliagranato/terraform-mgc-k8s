@@ -20,13 +20,13 @@ sequenceDiagram
 
 | Name | Version |
 |------|---------|
-| <a name="requirement_local"></a> [local](#requirement\_local) | 2.5.1 |
+| <a name="requirement_local"></a> [local](#requirement\_local) | 2.5.2 |
 
 ## Providers
 
 | Name | Version |
 |------|---------|
-| <a name="provider_local"></a> [local](#provider\_local) | 2.5.1 |
+| <a name="provider_local"></a> [local](#provider\_local) | 2.5.2 |
 | <a name="provider_mgc"></a> [mgc](#provider\_mgc) | 0.26.2 |
 | <a name="provider_time"></a> [time](#provider\_time) | 0.12.0 |
 
@@ -38,7 +38,7 @@ No modules.
 
 | Name | Type |
 |------|------|
-| [local_file.kubeconfig](https://registry.terraform.io/providers/hashicorp/local/2.5.1/docs/resources/file) | resource |
+| [local_file.kubeconfig](https://registry.terraform.io/providers/hashicorp/local/2.5.2/docs/resources/file) | resource |
 | [mgc_kubernetes_cluster.cluster_with_nodepool](https://registry.terraform.io/providers/magalucloud/mgc/latest/docs/resources/kubernetes_cluster) | resource |
 | [mgc_kubernetes_nodepool.gp1_small](https://registry.terraform.io/providers/magalucloud/mgc/latest/docs/resources/kubernetes_nodepool) | resource |
 | [time_sleep.wait_15_minutes](https://registry.terraform.io/providers/hashicorp/time/latest/docs/resources/sleep) | resource |
